@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juangui Ramirez</h1>
 <h3 align="center">Hey there! 👋 I'm a junior developer based in Medellin, Colombia. I have a strong passion for video games and love to bring my ideas to life through coding. I'm constantly learning and growing in the world of software development, and I'm excited to collaborate with others and contribute to great projects.</h3>
 
-- 🌱 I’m currently learning **JavaScript and Java**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 📫 How to reach me **juan-ramirez04@hotmail.com**
 
