@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 📫 How to reach me **juan-ramirez04@hotmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/juangui-ramirez04/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
